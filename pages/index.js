@@ -1,0 +1,1 @@
+// Página principal con selector de día y horarios visuales
