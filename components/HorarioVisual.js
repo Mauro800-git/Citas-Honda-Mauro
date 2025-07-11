@@ -1,1 +1,0 @@
-// Componente con recuadros verdes y rojos
